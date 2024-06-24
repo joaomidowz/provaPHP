@@ -1,0 +1,7 @@
+img {
+  display: none;
+}
+
+#carrossel img.mostrar {
+  display: block;
+}
